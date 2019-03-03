@@ -1,0 +1,30 @@
+{
+    "h3":"不仅有酒店...还有更多度假屋和公寓等你体验这份舒适",
+    "data":{
+        
+        "tow": {
+            "img":"https://ac-r.static.booking.cn/xdata/images/hotel/max500/74148425.jpg?k=a135c36d6f7c6efdbe55690f844c20707754e581c1207357f8cda49d1235113f&o=",
+            "b":"帕特奥斯昂托艾斯特瓦-自助式公寓酒店",
+            "site":"里斯本",
+            "num":"1,378元起"
+        },
+        "tow": {
+            "img":"https://ac-r.static.booking.cn/xdata/images/hotel/max500/92586600.jpg?k=3ac2d6127c11d307b715e35bae92949ca39e66963697745ac4f080bd4baa66da&o=",
+            "b":"斑马甜蜜公寓",
+            "site":"布达佩斯",
+            "num":"838元起"
+        },
+        "tow": {
+            "img":"https://ac-r.static.booking.cn/xdata/images/hotel/max500/55163207.jpg?k=0cfd27ee31235b08db509c61c51b640f5cbbf5d2b47326f90097883b68a647a1&o=",
+            "b":"布拉格老城奢华阁楼公寓",
+            "site":"布拉格",
+            "num":"3,885元起"
+        },
+        "tow": {
+            "img":"https://ac-r.static.booking.cn/xdata/images/hotel/max500/105924646.jpg?k=b88f79efee7351ec98ae3906b9ffa45715090c473909ee54c45f0f152e50ed82&o=",
+            "b":"M7现代公寓 - 我的家外之家",
+            "site":"佛罗伦萨",
+            "num":"1,609元起"
+        }
+    }
+}

@@ -1,0 +1,131 @@
+.navbox{
+    height: 110px;
+    width: 100%;
+    background: #003580;
+}
+.nav{
+    height: 50px;
+    width: 1110px;
+    /* background: #f1ff11; */
+    margin: 0 auto;
+    display: flex;
+}
+.nav>li{
+    height: 100%;
+    width: 50%;
+}
+.left_nav{
+    background:url('https://ac-q.static.booking.cn/static/img/b26logo/booking_logo_retina_zh/857e24d682e37e1643fb09b3d17c4af26c4caec0.png') no-repeat ;
+    background-size: 40% 55%;
+    background-position: 10px 10px;
+}
+.right_nav{
+    /* background: red; */
+    display: flex;
+    justify-content: flex-end ;
+}
+.right_nav>span{
+    height: 100%;
+    width: 11%;
+    /* background: #ccc; */
+    text-align: center;
+    line-height: 50px;
+}
+.right_nav>span:nth-child(1){
+    color: #fff;
+    font-size: 18px;
+
+}
+.right_nav>span:nth-child(2)>img{
+    margin-top: 17px;
+    height: 18px;
+    width: 20px;
+}
+.right_nav>span:nth-child(3){
+    color: #fff;
+    font-size: 20px;
+    position: relative;
+}
+.right_nav>span:nth-child(3)>i{
+    position: absolute;
+    /* background: #ccc; */
+    height: 100px;
+    width: 100px;
+    top: 50px;
+    left: 10px;
+    display: none;
+    border-radius: 15px;
+    border: 1px solid #ccc;
+}
+.right_nav>span:nth-child(3):hover>i{
+    display: block;
+}
+.right_nav>span:nth-child(4){
+    line-height: 30px;
+    height: 30px;
+    width: 100px;
+    margin-top:10px;
+    border:1px solid #fff;
+    background: rgba(255, 255, 255, 0);
+    font-size: 13px;
+    color: #fff;
+    border-radius: 4px;
+    margin-right: 20px;
+
+}
+.right_nav>span:nth-child(4):hover{
+    background: rgba(255, 255, 255,0.2);
+}
+.right_nav>.tSpan{
+    cursor:pointer;
+    line-height: 30px;
+    height: 30px;
+    width: 50px;
+    margin-top:10px;
+    border:1px solid #fff;
+    background: rgb(255, 255, 255);
+    font-size: 13px;
+    color: #000;
+    border-radius: 4px;
+    margin-right: 20px;
+}
+.tSpan:hover{
+   color: #3067af;
+}
+
+.nav_bottom{
+    height: 40px;
+    width: 1110px;
+    /* background: #ccc; */
+    margin: 0 auto;
+    padding: 10px 0px 10px 20px;
+    display:flex;
+    line-height: 40px;
+}
+.nav_bottom>li{
+    cursor:pointer;
+    height: 100%;
+    width: 50px;
+    /* background: #c11; */
+    margin-right: 4px;
+    text-align: center;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 14px;
+}
+
+.nav_bottom>.lis{
+    background: #07c!important;
+}
+.nav_bottom>.list{
+    background: #003580;
+}
+.nav_bottom li:hover{
+    background: #07c;
+}
+.nav_bottom>li:nth-last-of-type(1){
+    width: 100px;
+}
+/* .one_link{
+    background: #07c;
+} */
